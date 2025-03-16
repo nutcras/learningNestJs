@@ -1,0 +1,22 @@
+{
+    "provinces": [
+        {
+            "id": 1,
+            "name": "Province A",
+            "capital": "Capital A",
+            "population": 5000000
+        },
+        {
+            "id": 2,
+            "name": "Province B",
+            "capital": "Capital B",
+            "population": 3000000
+        },
+        {
+            "id": 3,
+            "name": "Province C",
+            "capital": "Capital C",
+            "population": 7000000
+        }
+    ]
+}
